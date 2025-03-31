@@ -98,9 +98,8 @@ Includes:
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Robert Sch]**  
 Data Analyst | SQL Enthusiast | Tableau Explorer  
-📫 [Your Email or LinkedIn (optional)]
 
 ---
 
